@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "dev": "next"
+  },
   "dependencies": {
     "next": "^13.1.6",
     "nextra": "^2.2.14",
