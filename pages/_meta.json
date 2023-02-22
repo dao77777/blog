@@ -1,8 +1,12 @@
 {
+
   "index": {
-    "title": "Index"
+    "title": "Dao77777's Blog",
+    "theme": {
+      "typesetting": "article"
+    }
   },
-  "wechat": {
-    "title": "微信"
+  "---": {
+    "type": "separator"
   }
 }
