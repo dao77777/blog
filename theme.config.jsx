@@ -68,7 +68,7 @@ export default {
     // icon
   },
   chat: {
-    link: 'https://github.com/dao77777/blog',
+    link: 'https://discord.com/channels/986245716907290684/986245716907290687',
     // icon
   },
   banner: {
